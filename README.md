@@ -32,6 +32,6 @@
 
 <div align="center">
   <samp>
-    <a href="mailto:asilgharbia@gmail.com" target="_blank">Gmail</a> . <a href="https://www.linkedin.com/in/asil-gharbia/" target="_blank">LinkedIn</a>
+    <a href="mailto:asilgharbia@gmail.com" target="_blank">Gmail</a> . <a href="https://www.linkedin.com/in/asil-gharbia/" target="_blank">LinkedIn</a> . <a href="https://www.postman.com/asilgharbia-team/asil-gharbia-api-collections" target="_blank">Postman</a>
   </samp>
 </div>
