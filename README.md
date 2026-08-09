@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  Leading Web development at YS Lootah Tech.
+  Leading Web Developer at YS Lootah Tech.
 
 </div>
 
