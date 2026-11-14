@@ -10,17 +10,17 @@
 
 <div align="center">
 
-AI & Automation<br> OpenAI API · Claude API · LLM Agents · Prompt Engineering · n8n
+<b>AI & Automation</b><br> OpenAI API · Claude API · LLM Agents · Prompt Engineering · n8n
 
-Backend & Frontend<br> Python · JavaScript · Vue.js · HTML · CSS · REST APIs
+<b>Backend & Frontend</b><br> Python · JavaScript · Vue.js · HTML · CSS · REST APIs
 
 ERP<br> ERPNext · Frappe Framework
 
-Databases<br> PostgreSQL · MariaDB · MySQL
+<b>Databases</b><br> PostgreSQL · MariaDB · MySQL
 
-Cloud & DevOps<br> Linux · Docker · Frappe Cloud/Press · AWS S3 · Cloudflare · Azure DevOps · GitHub
+<b>Cloud & DevOps</b><br> Linux · Docker · Frappe Cloud/Press · AWS S3 · Cloudflare · Azure DevOps · GitHub
 
-Integrations<br> Stripe · WhatsApp Business API · Postman
+<b>Integrations</b><br> Stripe · WhatsApp Business API · Postman
 
 </div>
 
