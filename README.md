@@ -14,7 +14,7 @@
 
 <b>Backend & Frontend</b><br> Python · JavaScript · Vue.js · HTML · CSS · REST APIs
 
-ERP<br> ERPNext · Frappe Framework
+<b>ERP</b><br> ERPNext · Frappe Framework
 
 <b>Databases</b><br> PostgreSQL · MariaDB · MySQL
 
