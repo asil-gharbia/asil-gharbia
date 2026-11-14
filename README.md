@@ -10,28 +10,25 @@
 
 <div align="center">
 
-  JavaScript **.** Vue.js **.** Python **.** HTML **.** CSS **.** ERPNext **.** Linux
+AI & Automation<br> OpenAI API · Claude API · LLM Agents · Prompt Engineering · n8n
 
-  MySQL **.** MariaDB **.** PostgreSQL
+Backend & Frontend<br> Python · JavaScript · Vue.js · HTML · CSS · REST APIs
 
-  OpenAI API **.** n8n **.** Stripe 
+ERP<br> ERPNext · Frappe Framework
 
-  Frappe Cloud/Press **.** AWS S3 **.** Azure DevOps **.** Postman **.** GitHub
+Databases<br> PostgreSQL · MariaDB · MySQL
 
-</div>
+Cloud & DevOps<br> Linux · Docker · Frappe Cloud/Press · AWS S3 · Cloudflare · Azure DevOps · GitHub
 
-<h2 align="left">🔭 Currently</h2>
-
-<div align="center">
-
-  Leading Web Developer at YS Lootah Tech.
+Integrations<br> Stripe · WhatsApp Business API · Postman
 
 </div>
 
-<h2 align="left">Contact</h2>
+
+<h2 align="left">📫Contact</h2>
 
 <div align="center">
   <samp>
-    <a href="mailto:asilgharbia@gmail.com" target="_blank">Gmail</a> . <a href="https://www.linkedin.com/in/asil-gharbia/" target="_blank">LinkedIn</a> . <a href="https://www.postman.com/asilgharbia-team/asil-gharbia-api-collections" target="_blank">Postman</a>
+    <a href="mailto:asilgharbia@gmail.com" target="_blank">Gmail</a> . <a href="https://www.linkedin.com/in/asil-gharbia/" target="_blank">LinkedIn</a>
   </samp>
 </div>
